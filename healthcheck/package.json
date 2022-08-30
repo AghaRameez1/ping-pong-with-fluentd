@@ -1,0 +1,14 @@
+{
+  "name": "13",
+  "version": "1.0.0",
+  "description": "Write a couple of shell scripts that will ping pong back and forth with each other and run them as containers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
